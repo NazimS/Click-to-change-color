@@ -7,5 +7,7 @@ for (let i=0; i < btns.length; i++) {
         let buttonBgColor = buttonStyle["backgroundColor"];
         document.body.style.backgroundColor = buttonBgColor;
     });
-    
+
 }
+
+

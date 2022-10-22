@@ -1,0 +1,22 @@
+
+.backgrnd {
+    text-align: center;
+}
+
+.btn {
+    padding: 30px 60px;
+    /* margin-bottom: 20px; */
+    cursor: pointer;
+    background: var(--color);
+    /* width: 100px;
+    height: 100px; */
+}
+
+.btn-1 {--color:red;}
+.btn-2 {--color:green;}
+.btn-3 {--color:blue;}
+.btn-4 {--color:orange;}
+.btn-5 {--color:brown;}
+.btn-6 {--color:skyblue;}
+.btn-7 {--color:rgb(255, 0, 255);}
+.btn-8 {--color:rgb(103, 233, 109);}

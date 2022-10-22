@@ -12,13 +12,22 @@ body {
     box-shadow: 0 0 8px black;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; letter-spacing: 3px; font-weight:bold; font-size: 1rem;
 }
-.btn-1 {--color:#FF6F61;}
-.btn-2 {--color:#a8eb12;}
-.btn-3 {--color:#3282b1;}
-.btn-4 {--color:orange;}
-.btn-5 {--color:#E15D44;}
-.btn-6 {--color:#32ccbc;}
-.btn-7 {--color:rgb(255, 151, 255);}
+.btn-1 {--color:#FF6F61;} 
+.btn-2 {--color:#a8eb12;} 
+.btn-3 {--color:#3282b1;} 
+.btn-4 {--color:orange;} 
+.btn-5 {--color:#E15D44;} 
+.btn-6 {--color:#32ccbc;} 
+.btn-7 {--color:rgb(255, 151, 255);} 
 .btn-8 {--color:rgb(103, 233, 109);}
 
+.btn-1:hover {box-shadow: 0 0 10px #fa3f2e, 0 0 12px #fc6659, 0 0 14px #f89f96;} 
+.btn-2:hover {box-shadow: 0 0 10px #a8eb12, 0 0 12px #b7fc22, 0 0 14px #a8f00c;}
+.btn-3:hover {box-shadow: 0 0 10px #4b9bca, 0 0 12px #2d94cf, 0 0 14px #0292e6;}
+.btn-4:hover {box-shadow: 0 0 10px rgb(255, 166, 0), 0 0 12px rgb(238, 176, 61), 0 0 14px rgb(238, 200, 130);}
+.btn-5:hover {box-shadow: 0 0 10px #f33f1b, 0 0 12px #eb7057, 0 0 14px #faa898;}
+.btn-6:hover {box-shadow: 0 0 10px #0cbba9, 0 0 12px #5cf8e9, 0 0 14px #9afcf2;}
+.btn-7:hover {box-shadow: 0 0 10px rgb(253, 148, 253), 0 0 12px rgb(231, 193, 231), 0 0 14px rgb(223, 199, 223);}
+.btn-8:hover {box-shadow: 0 0 10px rgb(84, 223, 91), 0 0 12px rgb(158, 243, 163), 0 0 14px rgb(197, 247, 199);}
+#clear:hover {box-shadow: 0 0 10px rgb(192, 188, 188), 0 0 12px rgb(102, 101, 101), 0 0 24px rgb(207, 204, 204);}
  
